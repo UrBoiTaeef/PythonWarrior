@@ -12,7 +12,7 @@ def moveZeroes(arr):
         j+=1
     return arr
 
-
+#This is Code for move zeroes question on gfg
 
 arr = list(map(int,input("Enter the elements: ").split()))
 moveZeroes(arr)
